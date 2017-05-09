@@ -1,6 +1,6 @@
 # gitbashrc
 
-##Bash alias in bashrc
+## Bash alias in bashrc
 alias gs='git status'
 alias gfo='git fetch origin'
 alias gc='git checkout'
